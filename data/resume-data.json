@@ -1,0 +1,268 @@
+{
+  "basics": {
+    "name": "Vamsikrishna Patchava",
+    "title": "Technical Lead - Identity And Access Management",
+    "email": "vamsi.patchava@gmail.com",
+    "phone": "0468913220",
+    "location": "Sydney, Australia",
+    "summary": [
+      "8+ years of experience in implementing Identity and Access Management solutions across financial services, healthcare, and banking sectors",
+      "Expert in Forgerock (AM, IDM, IG, DS) and Ping Identity (PingFederate, PingDirectory, PingID, Ping Identity Cloud) implementation",
+      "Specialized in OAuth2, OIDC, FIDO, and SAML for secure authentication and authorization architectures",
+      "Extensive experience in designing and implementing authentication flows for consumer banking applications",
+      "Strong track record in delivering IAM solutions for regulatory environments including PSD2 and CDR/Open Banking",
+      "Proficient in modern authentication protocols, API security, and identity federation"
+    ]
+  },
+  "contact": {
+    "email": "vamsi.patchava@gmail.com",
+    "phone": "+61 468 913 220"
+  },
+  "stats": [
+    {
+      "number": "8+",
+      "label": "Years Experience"
+    },
+    {
+      "number": "50+",
+      "label": "Projects Completed"
+    },
+    {
+      "number": "15+",
+      "label": "Technologies"
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "name": "Forgerock Identity Platform",
+        "level": 95,
+        "items": ["Forgerock AM 6.x/7.x", "Authentication Trees/Journeys", "Forgerock IDM 6.x/7.x", "Forgerock IG 6.x/7.x", "Forgerock DS 6.x/7.x", "OAuth2/OIDC Implementation"]
+      },
+      {
+        "name": "Ping Identity Platform", 
+        "level": 95,
+        "items": ["PingFederate 9.x/10.x", "PingDirectory", "PingID", "Ping Identity Cloud", "OAuth Adapter Development", "SAML Integration"]
+      },
+      {
+        "name": "IAM Standards & Protocols",
+        "level": 90,
+        "items": ["OAuth 2.0/2.1", "OpenID Connect", "SAML 2.0", "SCIM", "FAPI", "JWT/JWS/JWE", "PKCE", "MTLS", "FIDO2/WebAuthn"]
+      },
+      {
+        "name": "Programming & Development",
+        "level": 85,
+        "items": ["Java", "Spring Security", "Spring Boot", "JavaScript", "Python", "REST APIs", "NodeJS", "ReactJS"]
+      },
+      {
+        "name": "Cloud & DevOps",
+        "level": 80,
+        "items": ["AWS", "GCP", "Docker", "OpenShift", "Jenkins", "Terraform", "Splunk", "BitBucket"]
+      }
+    ],
+    "proficiency": [
+      { "skill": "Forgerock Suite", "level": 95 },
+      { "skill": "OAuth2/OIDC", "level": 92 },
+      { "skill": "Java/Spring", "level": 88 },
+      { "skill": "SAML 2.0", "level": 90 },
+      { "skill": "LDAP/DS", "level": 85 },
+      { "skill": "Docker/K8s", "level": 82 },
+      { "skill": "AWS Cloud", "level": 78 },
+      { "skill": "FIDO2/WebAuthn", "level": 80 }
+    ]
+  },
+  "work": [
+    {
+      "company": "ANZ Bank",
+      "position": "Technical Lead - Identity And Access Management",
+      "startDate": "2023-04",
+      "endDate": "2023-10",
+      "location": "Sydney, Australia",
+      "summary": "Enterprise IAM Architecture and Implementation for Digital Banking",
+      "description": "Environment: Forgerock AM 7.x, Forgerock DS 7.x, Forgerock IDM 7.x, Forgerock IG 7.x, OAuth2/OIDC, FIDO2/WebAuthn, SAML 2.0, Spring Security, OpenShift, Docker, AWS, Splunk, Jenkins, Sonar, BitBucket, GCP, CodeFresh",
+      "highlights": [
+        "Led the design and implementation of ANZ App and Internet Banking's customer authentication/authorization flows using OIDC and FIDO protocols",
+        "Architected secure authentication journeys for mobile and web banking channels with Forgerock AM 7.x",
+        "Implemented FIDO2/WebAuthn for passwordless authentication on ANZ's digital platforms",
+        "Designed and developed OAuth2/OIDC authorization server for secure API access across digital channels",
+        "Built customer identity consolidation solution integrating multiple identity silos using Forgerock DS and IDM",
+        "Implemented step-up authentication for high-risk banking transactions with risk-based authentication policies",
+        "Developed comprehensive security monitoring and analytics solution for authentication services using Splunk",
+        "Created automated account recovery workflows incorporating multi-factor authentication",
+        "Designed and implemented secure device registration and management for mobile banking"
+      ]
+    },
+    {
+      "company": "Capgemini Australia", 
+      "position": "Lead Consultant - Identity And Access Management",
+      "startDate": "2019-03",
+      "endDate": "2023-04",
+      "location": "Sydney, Australia",
+      "summary": "Consumer Data Standards (Open Banking) IAM Architecture",
+      "description": "Environment: Forgerock AM 6.5/7.0, Forgerock DS 6.5/7.0, Forgerock IDM 6.5/7.0, Forgerock IG 6.5/7.0, OAuth2/OIDC, MTLS, FAPI, Spring Security, OpenShift, Docker, AWS, Splunk, Jenkins, Sonar, BitBucket, GCP, CodeFresh",
+      "highlights": [
+        "Architected the authentication and authorization framework for Australian Consumer Data Right (Open Banking) implementation",
+        "Designed and implemented dynamic client registration using OAuth 2.0 DCR profiles in Forgerock AM",
+        "Created custom authentication trees in Forgerock AM 6.5/7.0 incorporating step-up authentication and consent workflows",
+        "Developed secure consent management service using Forgerock IDM to meet CDR regulatory requirements",
+        "Built custom OAuth2 token enrichment scripts for Forgerock AM to include additional claims for regulatory compliance",
+        "Implemented fine-grained authorization policies using Forgerock IG for API access control",
+        "Developed custom authentication nodes for Forgerock AM to integrate with existing banking authentication systems",
+        "Created comprehensive API security model using OAuth2/OIDC standards with MTLS for secure client authentication"
+      ]
+    },
+    {
+      "company": "Capgemini India Pvt.Ltd.",
+      "position": "Consultant - IAM Specialist", 
+      "startDate": "2017-01",
+      "endDate": "2019-03",
+      "location": "India",
+      "summary": "PSD2 Open Banking Identity Architecture with Ping Identity",
+      "description": "Environment: PingFederate 9.x, PingDirectory, PingID, Ping Identity Cloud, OAuth2/OIDC, FAPI, MTLS, JAVA, Spring Security, Spring Boot, MongoDB, DevOps, Splunk, Jenkins, Sonar, BitBucket, Docker, AWS",
+      "highlights": [
+        "Architected and implemented PSD2 Open Banking authentication solution using PingFederate and Ping Identity Cloud for European banking client",
+        "Designed and configured Ping Identity Cloud services for multi-environment deployment",
+        "Implemented Ping Identity Cloud Directory Services for customer identity management",
+        "Created custom OAuth adapters and token validators in PingFederate to support PSD2 requirements",
+        "Deployed Ping Identity Cloud SSO services for customer authentication across multiple banking channels",
+        "Implemented Strong Customer Authentication (SCA) workflows using PingFederate's authentication policies",
+        "Developed custom identity provider adapters in PingFederate for integration with existing banking systems",
+        "Built secure social login federation using OAuth/OIDC in PingFederate with enhanced security controls"
+      ]
+    },
+    {
+      "company": "Capgemini India Pvt.Ltd.",
+      "position": "Software Engineer",
+      "startDate": "2015-11", 
+      "endDate": "2016-12",
+      "location": "India",
+      "summary": "Secure REST & JMS Services Development - Moody's Investor Service",
+      "description": "Environment: JAVA, Spring Security, Spring, SpringMVC, SpringBoot, SpringJMS, JBOSS, IBM MQ, Jenkins, Sonar, SharePoint",
+      "highlights": [
+        "Developed secure microservices architecture with Spring Security implementation",
+        "Created centralized authentication service for microservices ecosystem",
+        "Implemented JWT-based authentication for service-to-service communication",
+        "Built custom Spring Security filters for fine-grained authorization",
+        "Developed comprehensive audit logging framework for security events",
+        "Implemented secure message queuing with authentication and authorization controls",
+        "Created API security testing framework to validate authentication mechanisms"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ANZ Digital Banking Authentication",
+      "description": "Led the design and implementation of authentication and authorization flows for ANZ digital banking channels. Implemented FIDO2/WebAuthn for passwordless authentication and OIDC for secure API authorization across mobile and web platforms.",
+      "category": "iam",
+      "stats": {
+        "users": "2M+ users",
+        "transactions": "10M+ auth/day"
+      },
+      "technologies": ["Forgerock AM", "FIDO2/WebAuthn", "OIDC", "Mobile Banking", "Authentication Trees"],
+      "links": {
+        "demo": "#",
+        "case": "#"
+      }
+    },
+    {
+      "name": "Open Banking Consent Management System",
+      "description": "Designed and developed a comprehensive consent management system for CDR compliance using Forgerock IDM and custom APIs. Implemented secure consent workflows, fine-grained permission models, and audit capabilities.",
+      "category": "iam",
+      "stats": {
+        "apis": "50+ APIs",
+        "compliance": "CDR certified"
+      },
+      "technologies": ["Forgerock IDM", "REST APIs", "OAuth2", "Consent Management", "CDR Compliance"],
+      "links": {
+        "demo": "#",
+        "case": "#"
+      }
+    },
+    {
+      "name": "Enterprise Federation Hub Implementation",
+      "description": "Designed and implemented a centralized federation hub using Forgerock AM to consolidate authentication and federation services across multiple business units. Implemented SAML and OIDC protocols for service provider and identity provider integrations.",
+      "category": "enterprise",
+      "stats": {
+        "providers": "25+ providers",
+        "integrations": "100+ systems"
+      },
+      "technologies": ["Forgerock AM", "SAML 2.0", "OIDC", "Federation", "Authentication Trees"],
+      "links": {
+        "demo": "#",
+        "case": "#"
+      }
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Oracle JAVA SE 7 Programmer I certification",
+      "description": "Obtained certification with 93 percentage",
+      "icon": "fab fa-java",
+      "date": "2015"
+    },
+    {
+      "title": "Rising Star Award",
+      "description": "In the Half Yearly Practice awards for performing best in client project",
+      "icon": "fas fa-star",
+      "date": "2018"
+    },
+    {
+      "title": "Best Student Award",
+      "description": "For performing best in assessments and final project during training period",
+      "icon": "fas fa-trophy",
+      "date": "2016"
+    },
+    {
+      "title": "Tech Challenge Winner",
+      "description": "First prize in Tech Challenge'17 and Second prize in Tech Challenge'18",
+      "icon": "fas fa-code",
+      "date": "2017-2018"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Raspberry Pi controlled SMS-Update-Notification (SUN) System",
+      "publisher": "IEEE International Conference on Electrical, Computer and Communication Technologies (ICECCT)",
+      "year": "2015",
+      "authors": ["Patchava Vamsikrishna", "Sonti Dinesh Kumar", "Shaik Riyaz Hussain", "Rama Naidu, K."],
+      "category": "IoT"
+    },
+    {
+      "name": "Advanced Raspberry Pi Surveillance (ARS) System",
+      "publisher": "Global Conference on Communication Technologies (GCCT)",
+      "year": "2015", 
+      "authors": ["Patchava Vamsikrishna", "Shaik Riyaz Hussain", "Neelavarapu Ramu", "Paila Mohan Rao"],
+      "category": "Security"
+    },
+    {
+      "name": "Healthcare based on IoT using Raspberry Pi",
+      "publisher": "International Conference on Green Computing and Internet of Things (ICGCIoT)",
+      "year": "2015",
+      "authors": ["M. S. D. Gupta", "Patchava Vamsikrishna", "V. Menezes"],
+      "category": "Healthcare"
+    },
+    {
+      "name": "A Smart Home Automation Technique with Raspberry Pi using IoT",
+      "publisher": "IEEE International Conference on Smart Sensors and System (IC-SSS)",
+      "year": "2015",
+      "authors": ["Patchava Vamsikrishna", "Hari Babu Kandala", "Ravi Babu P."],
+      "category": "IoT"
+    },
+    {
+      "name": "Raspberry Pi Blood Management (RBM) System",
+      "publisher": "IEEE International Conference on Innovations in Information Embedded and Communication Systems",
+      "year": "2016",
+      "authors": ["Patchava Vamsikrishna", "Manik Mehta", "Sonti Dinesh Kumar"],
+      "category": "Healthcare"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Electronics and Communication Engineering",
+      "school": "RGUKT Nuzvid",
+      "year": "2015",
+      "gpa": "8.58/10",
+      "details": "Specialized in Electronics and Communication Engineering with focus on embedded systems and IoT"
+    }
+  ]
+}
